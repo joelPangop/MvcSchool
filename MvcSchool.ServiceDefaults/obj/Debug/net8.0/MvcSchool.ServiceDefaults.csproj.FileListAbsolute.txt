@@ -1,0 +1,12 @@
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\bin\Debug\net8.0\MvcSchool.ServiceDefaults.deps.json
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\bin\Debug\net8.0\MvcSchool.ServiceDefaults.dll
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\bin\Debug\net8.0\MvcSchool.ServiceDefaults.pdb
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\MvcSchool.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\MvcSchool.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\MvcSchool.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\MvcSchool.ServiceDefaults.AssemblyInfo.cs
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\MvcSchool.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\MvcSchool.ServiceDefaults.dll
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\refint\MvcSchool.ServiceDefaults.dll
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\MvcSchool.ServiceDefaults.pdb
+C:\Users\JoelStephanePangopTc\source\repos\MvcSchool\MvcSchool.ServiceDefaults\obj\Debug\net8.0\ref\MvcSchool.ServiceDefaults.dll
